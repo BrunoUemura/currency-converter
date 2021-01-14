@@ -52,8 +52,8 @@ function App() {
   }
 
   return (
-    <div id="outerBox">
-      <h1>Convert Currency</h1>
+    <div id="innerBox">
+      <h1>Currency converter</h1>
       <CurrencyRow 
         currencyOptions={currencyOptions}
         selectedCurrency={fromCurrency}
