@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  background-color: rgb(49, 0, 112);
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  color: white;
+}
+#outerBox {
+  background-color: rgb(49, 0, 112);
+  padding: 70px;
+  background-color: rgb(80, 0, 185);
+  border-radius: 15%;
+}
+
+h1 {
+  margin-top: 5px;
+
+  text-transform: uppercase;
+}
+
+.input {
+  margin: 5px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 0.3em;
+  padding: 0.25rem;
+  width: 77%;
+}
+
+.equals {
+  font-weight: bold;
+  font-size: 2rem;
+}
