@@ -13,8 +13,8 @@ Download the zip folder or clone the repository to your local machine.
 
 Install the dependencies with the following command:
 
-- `npm install` or `yarn`
+`npm install` or `yarn`
 
 To execute the project run the following commands:
 
-- `npm start` or `yarn start`
+`npm start` or `yarn start`
